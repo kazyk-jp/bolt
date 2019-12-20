@@ -96,6 +96,7 @@ a {
   margin-top: 35px;
   font-size: 20px;
   line-height: 1.5;
+  width: 100%;
 }
 
 .article {
@@ -214,7 +215,7 @@ a {
     align-items: flex-end;
   }
   .iphone-subtitle-text {
-    width: 690px;
+    margin-left: 20px;
   }
 
   .article-feature {
@@ -288,7 +289,6 @@ a {
 
   .iphone-subtitle-text {
     margin: 0 auto;
-    width: 900px;
   }
 
   .iphone-text {
@@ -312,11 +312,12 @@ a {
 
   .article-text {
     text-align: center;
+    margin-top: 80px;
   }
 
   .article---text {
     line-height: 1.5;
-    margin: 80px 0 40px 0;
+    margin: 0 0 40px 0;
   }
 
   .article-email {
